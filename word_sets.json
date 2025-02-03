@@ -1,0 +1,44 @@
+{
+  "sets": [
+    {
+      "set_name": "Dathanna",
+      "description": "Seo iad roinnt dathanna coitianta.",
+      "words": [
+        {"word": "dearg", "english": "red"},
+        {"word": "gorm", "english": "blue"},
+        {"word": "buí", "english": "yellow"},
+        {"word": "glas", "english": "green"}
+      ]
+    },
+    {
+      "set_name": "Ainmhithe",
+      "description": "Ainmhithe a fheiceann tú timpeall ort.",
+      "words": [
+        {"word": "madra", "english": "dog"},
+        {"word": "cat", "english": "cat"},
+        {"word": "capall", "english": "horse"},
+        {"word": "bó", "english": "cow"}
+      ]
+    },
+    {
+      "set_name": "Bia",
+      "description": "Rudaí blasta le hithe!",
+      "words": [
+        {"word": "arán", "english": "bread"},
+        {"word": "im", "english": "butter"},
+        {"word": "úll", "english": "apple"},
+        {"word": "cáis", "english": "cheese"}
+      ]
+    },
+    {
+      "set_name": "Clann",
+      "description": "Do theaghlach agus do mhuintir.",
+      "words": [
+        {"word": "máthair", "english": "mother"},
+        {"word": "athair", "english": "father"},
+        {"word": "deartháir", "english": "brother"},
+        {"word": "deirfiúr", "english": "sister"}
+      ]
+    }
+  ]
+}
